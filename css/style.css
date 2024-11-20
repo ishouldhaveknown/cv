@@ -974,6 +974,11 @@ blockquote {
 
 /* --------- 6.4 Gallery ---------- */
 
+.lightbox-content {
+    background: #fff;
+    padding: 20px;
+}
+
 #gallery img {
     max-height: 300px;
 }
